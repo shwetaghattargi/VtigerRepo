@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-11-24T12:58:54 IST" name="Default suite" finished-at="2026-11-24T12:59:05 IST" duration-ms="10640">
+    <groups>
+    </groups>
+    <test started-at="2026-11-24T12:58:54 IST" name="Default test" finished-at="2026-11-24T12:59:05 IST" duration-ms="10640">
+      <class name="com.comcast.crm.lead.CreateLeadByNameTest">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.comcast.crm.lead.CreateLeadByNameTest@661972b0]" started-at="2026-11-24T12:58:54 IST" name="launchBrowser" finished-at="2026-11-24T12:58:57 IST" duration-ms="2569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.comcast.crm.lead.CreateLeadByNameTest@661972b0]" started-at="2026-11-24T12:58:57 IST" name="login" finished-at="2026-11-24T12:59:01 IST" duration-ms="4033" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="createLeadWithNameTest()[pri:0, instance:com.comcast.crm.lead.CreateLeadByNameTest@661972b0]" started-at="2026-11-24T12:59:01 IST" name="createLeadWithNameTest" finished-at="2026-11-24T12:59:04 IST" duration-ms="3136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLeadWithNameTest -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.comcast.crm.lead.CreateLeadByNameTest@661972b0]" started-at="2026-11-24T12:59:04 IST" name="logout" finished-at="2026-11-24T12:59:05 IST" duration-ms="687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.comcast.crm.lead.CreateLeadByNameTest@661972b0]" started-at="2026-11-24T12:59:05 IST" name="closeBrowser" finished-at="2026-11-24T12:59:05 IST" duration-ms="177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.comcast.crm.lead.CreateLeadByNameTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,10 @@
+
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.comcast.crm.orgTest.CreateOrganizationWithIndustryAndTypeTest"/>
+      <class name="com.comcast.crm.orgTest.CreateOrganizationWithPhoneNumberTest"/>
+      <class name="com.comcast.crm.orgTest.CreateOrganizationTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
