@@ -72,5 +72,7 @@ public class CreateContactWithSupportDatesTest extends BaseClass {
 		Assert.assertEquals(actualEndDate, endDate, "Support End Date verification failed");
 
 		Reporter.log("Contact Header Verification: PASS", true);
+		Reporter.log("Contact Header Verification: PASS", true);
+
 	}
 }
