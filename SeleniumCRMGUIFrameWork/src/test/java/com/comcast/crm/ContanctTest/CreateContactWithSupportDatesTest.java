@@ -73,6 +73,8 @@ public class CreateContactWithSupportDatesTest extends BaseClass {
 
 		Reporter.log("Contact Header Verification: PASS", true);
 		Reporter.log("Contact Header Verification: PASS", true);
+		Reporter.log("Contact Header Verification: PASS", true);
+
 
 	}
 }
